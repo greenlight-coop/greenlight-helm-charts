@@ -3,7 +3,7 @@ entries:
   expose-pipeline-workspace:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-04-11T01:21:10.738145877Z"
+    created: "2022-04-11T01:38:12.118754741Z"
     description: 'Provides support to the Green Light service build and test process
       by exposing test result output from Serenity (or potentially other tools) via
       an Nginx service that provides access to Tekton workspace output artifacts. '
@@ -15,8 +15,18 @@ entries:
     version: 0.1.0
   helloworld:
   - apiVersion: v2
+    appVersion: 0.1.102
+    created: "2022-04-11T01:38:12.120775484Z"
+    description: Defines resources for the helloworld microservice.
+    digest: 9d157b011c98be73b5d67955d0ea7a705e3b4d5b6894ebac3b81096639cec87a
+    name: helloworld
+    type: application
+    urls:
+    - helloworld-0.1.102.tgz
+    version: 0.1.102
+  - apiVersion: v2
     appVersion: 0.1.101
-    created: "2022-04-11T01:21:10.738644737Z"
+    created: "2022-04-11T01:38:12.120556033Z"
     description: Defines resources for the helloworld microservice.
     digest: 89dc6a83513267fb7715e73a518180679d91ec3e63369e011b72f1c80e3c31a5
     name: helloworld
@@ -24,4 +34,4 @@ entries:
     urls:
     - helloworld-0.1.101.tgz
     version: 0.1.101
-generated: "2022-04-11T01:21:10.734614042Z"
+generated: "2022-04-11T01:38:12.116123822Z"
