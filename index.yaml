@@ -89,21 +89,6 @@ entries:
     version: 0.1.0
   greenlight-application-test-deployment:
   - apiVersion: v2
-    appVersion: 0.1.18
-    created: "2022-04-15T08:08:29.940098415Z"
-    dependencies:
-    - name: greenlight-application
-      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
-      version: 0.1.2
-    description: Deploys resources required for testing greenlight-application including
-      the application itself  and test resources.
-    digest: 73056f4e198969faac8c722b1e4446ea84906ebc3f5ca5299827044a001dfc33
-    name: greenlight-application-test-deployment
-    type: application
-    urls:
-    - greenlight-application-test-deployment-0.1.18.tgz
-    version: 0.1.18
-  - apiVersion: v2
     appVersion: 0.1.0
     created: "2022-04-15T08:08:29.935516668Z"
     dependencies:
