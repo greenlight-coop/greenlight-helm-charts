@@ -3,7 +3,7 @@ entries:
   cooperatives:
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2022-04-17T02:20:35.870294121Z"
+    created: "2022-04-17T02:23:51.353238197Z"
     description: Defines resources for the cooperatives microservice.
     digest: 933e675e0203beb7b8270e09636e9d604294951b36729e7ab1fea6c74d37663d
     name: cooperatives
@@ -13,7 +13,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2022-04-17T02:20:35.86815751Z"
+    created: "2022-04-17T02:23:51.344619971Z"
     description: Defines resources for the cooperatives microservice.
     digest: 3780edc861f3cf5e1851ece16e600ec4a2ae513c376b3bb7b84fbf81fdbf8115
     name: cooperatives
@@ -23,7 +23,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2022-04-17T02:20:35.864289927Z"
+    created: "2022-04-17T02:23:51.341726856Z"
     description: Defines resources for the cooperatives microservice.
     digest: 6843b97b19f13a99eae6a9b16c8784fcbfc25763b8510bd22d6e58d36642175d
     name: cooperatives
@@ -33,7 +33,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2022-04-17T02:20:35.840309641Z"
+    created: "2022-04-17T02:23:51.339392126Z"
     description: Defines resources for the cooperatives microservice.
     digest: 6770c9d4fb06612be9a43eba946dbbe426936744170a5d0efef13c7736e6f7e8
     name: cooperatives
@@ -44,7 +44,7 @@ entries:
   expose-pipeline-workspace:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-04-17T02:20:35.880082654Z"
+    created: "2022-04-17T02:23:51.356795698Z"
     description: 'Provides support to the Green Light service build and test process
       by exposing test result output from Serenity (or potentially other tools) via
       an Nginx service that provides access to Tekton workspace output artifacts. '
@@ -56,8 +56,37 @@ entries:
     version: 0.1.0
   greenlight-application:
   - apiVersion: v2
+    appVersion: 0.1.9
+    created: "2022-04-17T02:23:51.436416153Z"
+    dependencies:
+    - name: cooperatives
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.14
+    - name: greenlight-application-resources
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.6
+    - name: helloworld
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.105
+    - name: helloworld-ui
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.23
+    - name: worker-ui
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.22
+    description: Defines the full Green Light application composed of microservices
+      and supporting resources to be deployed to a particular stage (e.g. test, staging,
+      production). External dependencies that must be configured prior to installation
+      include Istio, Keycloak  and k8ssandra.
+    digest: d403d5b3282ad4c2733f90f2a34211bb1a0c49e1f8d1ece3ed76716a18ac4dae
+    name: greenlight-application
+    type: application
+    urls:
+    - greenlight-application-0.1.9.tgz
+    version: 0.1.9
+  - apiVersion: v2
     appVersion: 0.1.8
-    created: "2022-04-17T02:20:35.953318341Z"
+    created: "2022-04-17T02:23:51.434330763Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -86,7 +115,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2022-04-17T02:20:35.949303105Z"
+    created: "2022-04-17T02:23:51.430168341Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -115,7 +144,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2022-04-17T02:20:35.94273272Z"
+    created: "2022-04-17T02:23:51.417407939Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -144,7 +173,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2022-04-17T02:20:35.939398794Z"
+    created: "2022-04-17T02:23:51.393697974Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -173,7 +202,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2022-04-17T02:20:35.932010444Z"
+    created: "2022-04-17T02:23:51.384866638Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -202,7 +231,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2022-04-17T02:20:35.92107603Z"
+    created: "2022-04-17T02:23:51.370077081Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -231,7 +260,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-04-17T02:20:35.911847468Z"
+    created: "2022-04-17T02:23:51.361631819Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -261,7 +290,7 @@ entries:
   greenlight-application-resources:
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2022-04-17T02:20:35.986192959Z"
+    created: "2022-04-17T02:23:51.452339103Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -273,7 +302,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2022-04-17T02:20:35.98377672Z"
+    created: "2022-04-17T02:23:51.450279762Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -285,7 +314,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2022-04-17T02:20:35.975178722Z"
+    created: "2022-04-17T02:23:51.447562048Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -297,7 +326,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2022-04-17T02:20:35.97112604Z"
+    created: "2022-04-17T02:23:51.444699289Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -309,7 +338,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-04-17T02:20:35.963547672Z"
+    created: "2022-04-17T02:23:51.442510908Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -321,7 +350,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2022-04-17T02:20:35.960466626Z"
+    created: "2022-04-17T02:23:51.440878748Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -333,7 +362,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-04-17T02:20:35.958356047Z"
+    created: "2022-04-17T02:23:51.439568267Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -346,7 +375,7 @@ entries:
   greenlight-application-test-deployment:
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2022-04-17T02:20:36.006063947Z"
+    created: "2022-04-17T02:23:51.484280177Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -361,7 +390,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2022-04-17T02:20:36.002830084Z"
+    created: "2022-04-17T02:23:51.478943395Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -376,7 +405,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-04-17T02:20:35.999351851Z"
+    created: "2022-04-17T02:23:51.472346678Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -391,7 +420,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-04-17T02:20:35.991687308Z"
+    created: "2022-04-17T02:23:51.458779393Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -407,7 +436,7 @@ entries:
   helloworld:
   - apiVersion: v2
     appVersion: 0.1.105
-    created: "2022-04-17T02:20:36.017195406Z"
+    created: "2022-04-17T02:23:51.498503239Z"
     description: Defines resources for the helloworld microservice.
     digest: aa7e9c7354abc807b50f66151cdad8e892ba47f898ac345a04b614edab3ba7a1
     name: helloworld
@@ -417,7 +446,7 @@ entries:
     version: 0.1.105
   - apiVersion: v2
     appVersion: 0.1.104
-    created: "2022-04-17T02:20:36.015861997Z"
+    created: "2022-04-17T02:23:51.494777624Z"
     description: Defines resources for the helloworld microservice.
     digest: 95ede0794fcf95e3d07a90b54fc96879b541397b6dd75bb8ef886275c59bfdb1
     name: helloworld
@@ -427,7 +456,7 @@ entries:
     version: 0.1.104
   - apiVersion: v2
     appVersion: 0.1.103
-    created: "2022-04-17T02:20:36.014190935Z"
+    created: "2022-04-17T02:23:51.492537505Z"
     description: Defines resources for the helloworld microservice.
     digest: 3aa0f5fac3720fef60f69fc929216d434410099eaba4049c2393ff5fc3cf2ad1
     name: helloworld
@@ -437,7 +466,7 @@ entries:
     version: 0.1.103
   - apiVersion: v2
     appVersion: 0.1.102
-    created: "2022-04-17T02:20:36.009788481Z"
+    created: "2022-04-17T02:23:51.490782593Z"
     description: Defines resources for the helloworld microservice.
     digest: 9d157b011c98be73b5d67955d0ea7a705e3b4d5b6894ebac3b81096639cec87a
     name: helloworld
@@ -447,7 +476,7 @@ entries:
     version: 0.1.102
   - apiVersion: v2
     appVersion: 0.1.101
-    created: "2022-04-17T02:20:36.007523266Z"
+    created: "2022-04-17T02:23:51.486129685Z"
     description: Defines resources for the helloworld microservice.
     digest: 89dc6a83513267fb7715e73a518180679d91ec3e63369e011b72f1c80e3c31a5
     name: helloworld
@@ -458,7 +487,7 @@ entries:
   helloworld-ui:
   - apiVersion: v2
     appVersion: 0.1.23
-    created: "2022-04-17T02:20:36.032732485Z"
+    created: "2022-04-17T02:23:51.733403878Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 4b3683c9954f40ccc1ecc511b554e55a144e29e0de42fa70b713d27fb901db61
     name: helloworld-ui
@@ -468,7 +497,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2022-04-17T02:20:36.030831774Z"
+    created: "2022-04-17T02:23:51.729934496Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 3d8106bf958bcddcc931d9e98128c4a390b229d7bf4bce86e67acbcf1dd9c57f
     name: helloworld-ui
@@ -478,7 +507,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2022-04-17T02:20:36.027509493Z"
+    created: "2022-04-17T02:23:51.727998702Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 87d63a0da8d540862d4eec1287b26188273cca603cfc7e92e01e6bc77294059f
     name: helloworld-ui
@@ -488,7 +517,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2022-04-17T02:20:36.020336056Z"
+    created: "2022-04-17T02:23:51.721859426Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 0070a0c7e90d305b0e60929886ebf4188f509260b4b7eaf54c9d1d06661e3d38
     name: helloworld-ui
@@ -498,7 +527,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2022-04-17T02:20:36.019077157Z"
+    created: "2022-04-17T02:23:51.641681321Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 92c766acd2b4b11953890aa9d3e771d0ae6ed862abb1312baf7cac9e4fbcf86a
     name: helloworld-ui
@@ -509,7 +538,7 @@ entries:
   worker-ui:
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2022-04-17T02:20:36.03792531Z"
+    created: "2022-04-17T02:23:51.757858344Z"
     description: Defines resources for the worker-ui microservice.
     digest: cf65d406e45255ff78efdcaeeecc42d75a1c87cc1f48ce93aab039e36df0f84b
     name: worker-ui
@@ -519,7 +548,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2022-04-17T02:20:36.036791578Z"
+    created: "2022-04-17T02:23:51.753421206Z"
     description: Defines resources for the worker-ui microservice.
     digest: 56c72ef0c6ce58c66799dca6a8eed2830f4e97a8042aaf4572a740b44668178f
     name: worker-ui
@@ -529,7 +558,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2022-04-17T02:20:36.035481444Z"
+    created: "2022-04-17T02:23:51.750991411Z"
     description: Defines resources for the worker-ui microservice.
     digest: febbc02f5ad192659ac6dd728a76f7e86a309a91b3236f00cbcac08051e2d7b8
     name: worker-ui
@@ -539,7 +568,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2022-04-17T02:20:36.034398539Z"
+    created: "2022-04-17T02:23:51.745189785Z"
     description: Defines resources for the worker-ui microservice.
     digest: ee1bf502808485a8e05edde1eff3770dcc80cf9d3f99a3136e00cecc03869fcc
     name: worker-ui
@@ -547,4 +576,4 @@ entries:
     urls:
     - worker-ui-0.1.17.tgz
     version: 0.1.17
-generated: "2022-04-17T02:20:35.836021023Z"
+generated: "2022-04-17T02:23:51.333944357Z"
