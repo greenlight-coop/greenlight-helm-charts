@@ -3,7 +3,7 @@ entries:
   cooperatives:
   - apiVersion: v2
     appVersion: 0.1.48
-    created: "2022-08-25T22:24:18.636889235Z"
+    created: "2022-08-25T22:36:24.370972542Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -18,7 +18,7 @@ entries:
     version: 0.1.48
   - apiVersion: v2
     appVersion: 0.1.47
-    created: "2022-08-25T22:24:18.636130024Z"
+    created: "2022-08-25T22:36:24.370025191Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -33,7 +33,7 @@ entries:
     version: 0.1.47
   - apiVersion: v2
     appVersion: 0.1.46
-    created: "2022-08-25T22:24:18.634823752Z"
+    created: "2022-08-25T22:36:24.368967768Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -48,7 +48,7 @@ entries:
     version: 0.1.46
   - apiVersion: v2
     appVersion: 0.1.45
-    created: "2022-08-25T22:24:18.633770315Z"
+    created: "2022-08-25T22:36:24.367836373Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -63,7 +63,7 @@ entries:
     version: 0.1.45
   - apiVersion: v2
     appVersion: 0.1.44
-    created: "2022-08-25T22:24:18.632541469Z"
+    created: "2022-08-25T22:36:24.367114171Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -78,7 +78,7 @@ entries:
     version: 0.1.44
   - apiVersion: v2
     appVersion: 0.1.43
-    created: "2022-08-25T22:24:18.631668172Z"
+    created: "2022-08-25T22:36:24.365693721Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -93,7 +93,7 @@ entries:
     version: 0.1.43
   - apiVersion: v2
     appVersion: 0.1.42
-    created: "2022-08-25T22:24:18.630603222Z"
+    created: "2022-08-25T22:36:24.362469015Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -108,7 +108,7 @@ entries:
     version: 0.1.42
   - apiVersion: v2
     appVersion: 0.1.40
-    created: "2022-08-25T22:24:18.628725062Z"
+    created: "2022-08-25T22:36:24.356424908Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -123,7 +123,7 @@ entries:
     version: 0.1.40
   - apiVersion: v2
     appVersion: 0.1.39
-    created: "2022-08-25T22:24:18.628005803Z"
+    created: "2022-08-25T22:36:24.355643629Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -138,7 +138,7 @@ entries:
     version: 0.1.39
   - apiVersion: v2
     appVersion: 0.1.38
-    created: "2022-08-25T22:24:18.626461273Z"
+    created: "2022-08-25T22:36:24.35471823Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -153,7 +153,7 @@ entries:
     version: 0.1.38
   - apiVersion: v2
     appVersion: 0.1.37
-    created: "2022-08-25T22:24:18.624428196Z"
+    created: "2022-08-25T22:36:24.353846409Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -168,7 +168,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 0.1.36
-    created: "2022-08-25T22:24:18.623737984Z"
+    created: "2022-08-25T22:36:24.352972189Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -183,7 +183,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 0.1.35
-    created: "2022-08-25T22:24:18.62293225Z"
+    created: "2022-08-25T22:36:24.350549285Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -198,7 +198,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 0.1.32
-    created: "2022-08-25T22:24:18.621931219Z"
+    created: "2022-08-25T22:36:24.349414237Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -213,7 +213,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 0.1.31
-    created: "2022-08-25T22:24:18.621108958Z"
+    created: "2022-08-25T22:36:24.348239701Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -228,7 +228,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 0.1.30
-    created: "2022-08-25T22:24:18.620149455Z"
+    created: "2022-08-25T22:36:24.347499311Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -243,7 +243,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 0.1.29
-    created: "2022-08-25T22:24:18.619307763Z"
+    created: "2022-08-25T22:36:24.346894858Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -258,7 +258,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 0.1.28
-    created: "2022-08-25T22:24:18.618554262Z"
+    created: "2022-08-25T22:36:24.346172357Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -273,7 +273,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.27
-    created: "2022-08-25T22:24:18.617706154Z"
+    created: "2022-08-25T22:36:24.345255092Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -288,7 +288,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.26
-    created: "2022-08-25T22:24:18.616703455Z"
+    created: "2022-08-25T22:36:24.343734478Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -303,7 +303,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.24
-    created: "2022-08-25T22:24:18.615722423Z"
+    created: "2022-08-25T22:36:24.342448681Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -318,7 +318,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2022-08-25T22:24:18.615006077Z"
+    created: "2022-08-25T22:36:24.340329666Z"
     description: Defines resources for the cooperatives microservice.
     digest: ada5f389240915e347c886ad7e84fcc83fb6d0c5e9294f1d114c772130eee732
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -329,7 +329,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2022-08-25T22:24:18.614542364Z"
+    created: "2022-08-25T22:36:24.339117611Z"
     description: Defines resources for the cooperatives microservice.
     digest: b5d5326a074226a1c32e384c122d015694f3d7ac44a70c0f7778cb11d3e275ee
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -340,7 +340,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2022-08-25T22:24:18.613875533Z"
+    created: "2022-08-25T22:36:24.337518686Z"
     description: Defines resources for the cooperatives microservice.
     digest: 22145e65a718cad8409b7e2fd1021be3a5087b8ad1ac0c9e3a5c6e39618a5538
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -351,7 +351,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2022-08-25T22:24:18.613353252Z"
+    created: "2022-08-25T22:36:24.336493414Z"
     description: Defines resources for the cooperatives microservice.
     digest: 1f30c3e05d3f0198aab3160993596bc776c2be590beae79bfefb2cd31d8b16f4
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -362,7 +362,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2022-08-25T22:24:18.612684527Z"
+    created: "2022-08-25T22:36:24.335321697Z"
     description: Defines resources for the cooperatives microservice.
     digest: d3e3aff5f863adc2b96d33ae8b6e186c8d959eedab4301353423d917d5047bac
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -373,7 +373,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2022-08-25T22:24:18.612259437Z"
+    created: "2022-08-25T22:36:24.334310939Z"
     description: Defines resources for the cooperatives microservice.
     digest: 93bd833e00e27d14be8d6993052419deb7f7fddf96348afaf9cc6df5faea6f5a
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -384,7 +384,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2022-08-25T22:24:18.611218992Z"
+    created: "2022-08-25T22:36:24.333251603Z"
     description: Defines resources for the cooperatives microservice.
     digest: f97ceb6dacc8e1d843e28e2957cb14dec7c002be098943b46f4c4bf69c286516
     name: cooperatives
@@ -394,7 +394,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2022-08-25T22:24:18.610544383Z"
+    created: "2022-08-25T22:36:24.332655071Z"
     description: Defines resources for the cooperatives microservice.
     digest: 933e675e0203beb7b8270e09636e9d604294951b36729e7ab1fea6c74d37663d
     name: cooperatives
@@ -404,7 +404,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2022-08-25T22:24:18.610068476Z"
+    created: "2022-08-25T22:36:24.332035019Z"
     description: Defines resources for the cooperatives microservice.
     digest: 3780edc861f3cf5e1851ece16e600ec4a2ae513c376b3bb7b84fbf81fdbf8115
     name: cooperatives
@@ -414,7 +414,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2022-08-25T22:24:18.609501816Z"
+    created: "2022-08-25T22:36:24.33092797Z"
     description: Defines resources for the cooperatives microservice.
     digest: 6843b97b19f13a99eae6a9b16c8784fcbfc25763b8510bd22d6e58d36642175d
     name: cooperatives
@@ -424,7 +424,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2022-08-25T22:24:18.608709949Z"
+    created: "2022-08-25T22:36:24.327521996Z"
     description: Defines resources for the cooperatives microservice.
     digest: 6770c9d4fb06612be9a43eba946dbbe426936744170a5d0efef13c7736e6f7e8
     name: cooperatives
@@ -435,7 +435,7 @@ entries:
   expose-pipeline-workspace:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2022-08-25T22:24:18.637555088Z"
+    created: "2022-08-25T22:36:24.371678147Z"
     description: 'Provides support to the Green Light service build and test process
       by exposing test result output from Serenity (or potentially other tools) via
       an Nginx service that provides access to Tekton workspace output artifacts. '
@@ -447,7 +447,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-08-25T22:24:18.637241154Z"
+    created: "2022-08-25T22:36:24.371372806Z"
     description: 'Provides support to the Green Light service build and test process
       by exposing test result output from Serenity (or potentially other tools) via
       an Nginx service that provides access to Tekton workspace output artifacts. '
@@ -459,8 +459,39 @@ entries:
     version: 0.1.0
   greenlight-application:
   - apiVersion: v2
+    appVersion: 0.1.45
+    created: "2022-08-25T22:36:24.489609744Z"
+    dependencies:
+    - name: cooperatives
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.48
+    - name: greenlight-application-resources
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.23
+    - name: helloworld
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.122
+    - name: helloworld-ui
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.31
+    - name: worker-ui
+      repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
+      version: 0.1.36
+    description: 'Defines the full Green Light application composed of microservices
+      and supporting resources  to be deployed to a particular stage (e.g. test, staging,
+      production). External dependencies  that must be configured prior to installation
+      include Istio, Keycloak and k8ssandra. Also requires deployment to an existing
+      namespace that has been labeled istio-injection: enabled. '
+    digest: e933f0e65546d76d3b92765d7f284141ffd0e3a444bd84a575394557bab1c955
+    icon: https://www.greenlight.coop/assets/img/favicon.png
+    name: greenlight-application
+    type: application
+    urls:
+    - greenlight-application-0.1.45.tgz
+    version: 0.1.45
+  - apiVersion: v2
     appVersion: 0.1.44
-    created: "2022-08-25T22:24:18.781339347Z"
+    created: "2022-08-25T22:36:24.486160449Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -491,7 +522,7 @@ entries:
     version: 0.1.44
   - apiVersion: v2
     appVersion: 0.1.43
-    created: "2022-08-25T22:24:18.777750474Z"
+    created: "2022-08-25T22:36:24.482834516Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -522,7 +553,7 @@ entries:
     version: 0.1.43
   - apiVersion: v2
     appVersion: 0.1.42
-    created: "2022-08-25T22:24:18.773327131Z"
+    created: "2022-08-25T22:36:24.478085464Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -553,7 +584,7 @@ entries:
     version: 0.1.42
   - apiVersion: v2
     appVersion: 0.1.41
-    created: "2022-08-25T22:24:18.764229739Z"
+    created: "2022-08-25T22:36:24.47462898Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -584,7 +615,7 @@ entries:
     version: 0.1.41
   - apiVersion: v2
     appVersion: 0.1.40
-    created: "2022-08-25T22:24:18.760358848Z"
+    created: "2022-08-25T22:36:24.471700308Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -615,7 +646,7 @@ entries:
     version: 0.1.40
   - apiVersion: v2
     appVersion: 0.1.39
-    created: "2022-08-25T22:24:18.753789352Z"
+    created: "2022-08-25T22:36:24.466409709Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -646,7 +677,7 @@ entries:
     version: 0.1.39
   - apiVersion: v2
     appVersion: 0.1.38
-    created: "2022-08-25T22:24:18.745543523Z"
+    created: "2022-08-25T22:36:24.460542046Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -677,7 +708,7 @@ entries:
     version: 0.1.38
   - apiVersion: v2
     appVersion: 0.1.37
-    created: "2022-08-25T22:24:18.741640371Z"
+    created: "2022-08-25T22:36:24.457129281Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -708,7 +739,7 @@ entries:
     version: 0.1.37
   - apiVersion: v2
     appVersion: 0.1.36
-    created: "2022-08-25T22:24:18.734010407Z"
+    created: "2022-08-25T22:36:24.453717215Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -739,7 +770,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 0.1.35
-    created: "2022-08-25T22:24:18.729528115Z"
+    created: "2022-08-25T22:36:24.450194983Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -770,7 +801,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 0.1.34
-    created: "2022-08-25T22:24:18.724702933Z"
+    created: "2022-08-25T22:36:24.445117036Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -801,7 +832,7 @@ entries:
     version: 0.1.34
   - apiVersion: v2
     appVersion: 0.1.33
-    created: "2022-08-25T22:24:18.720042215Z"
+    created: "2022-08-25T22:36:24.441773438Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -832,7 +863,7 @@ entries:
     version: 0.1.33
   - apiVersion: v2
     appVersion: 0.1.32
-    created: "2022-08-25T22:24:18.708893825Z"
+    created: "2022-08-25T22:36:24.438548785Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -863,7 +894,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 0.1.31
-    created: "2022-08-25T22:24:18.701865363Z"
+    created: "2022-08-25T22:36:24.433977168Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -894,7 +925,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 0.1.29
-    created: "2022-08-25T22:24:18.697288447Z"
+    created: "2022-08-25T22:36:24.426892087Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -925,7 +956,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 0.1.28
-    created: "2022-08-25T22:24:18.690744118Z"
+    created: "2022-08-25T22:36:24.4239439Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -956,7 +987,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.27
-    created: "2022-08-25T22:24:18.687235938Z"
+    created: "2022-08-25T22:36:24.42110282Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -987,7 +1018,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.26
-    created: "2022-08-25T22:24:18.683172942Z"
+    created: "2022-08-25T22:36:24.417173758Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1006,7 +1037,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.25
-    created: "2022-08-25T22:24:18.681636428Z"
+    created: "2022-08-25T22:36:24.413235743Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1028,7 +1059,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.24
-    created: "2022-08-25T22:24:18.679907936Z"
+    created: "2022-08-25T22:36:24.411466956Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1059,7 +1090,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.23
-    created: "2022-08-25T22:24:18.67578439Z"
+    created: "2022-08-25T22:36:24.408086506Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1089,7 +1120,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2022-08-25T22:24:18.670555273Z"
+    created: "2022-08-25T22:36:24.404737221Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1119,7 +1150,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2022-08-25T22:24:18.668908539Z"
+    created: "2022-08-25T22:36:24.402381867Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1149,7 +1180,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2022-08-25T22:24:18.667169887Z"
+    created: "2022-08-25T22:36:24.397342311Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1179,7 +1210,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2022-08-25T22:24:18.664059101Z"
+    created: "2022-08-25T22:36:24.393623414Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1209,7 +1240,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2022-08-25T22:24:18.662084439Z"
+    created: "2022-08-25T22:36:24.391386087Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1238,7 +1269,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2022-08-25T22:24:18.655526011Z"
+    created: "2022-08-25T22:36:24.388900741Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1267,7 +1298,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2022-08-25T22:24:18.653843744Z"
+    created: "2022-08-25T22:36:24.386824406Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1296,7 +1327,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2022-08-25T22:24:18.652009057Z"
+    created: "2022-08-25T22:36:24.384689945Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1325,7 +1356,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2022-08-25T22:24:18.650479687Z"
+    created: "2022-08-25T22:36:24.38203465Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1354,7 +1385,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2022-08-25T22:24:18.648759563Z"
+    created: "2022-08-25T22:36:24.378495819Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1383,7 +1414,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2022-08-25T22:24:18.647026656Z"
+    created: "2022-08-25T22:36:24.376781162Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1412,7 +1443,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2022-08-25T22:24:18.64189521Z"
+    created: "2022-08-25T22:36:24.375275625Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1441,7 +1472,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2022-08-25T22:24:18.639574897Z"
+    created: "2022-08-25T22:36:24.373620172Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1470,7 +1501,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2022-08-25T22:24:18.791680492Z"
+    created: "2022-08-25T22:36:24.500546587Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1499,7 +1530,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2022-08-25T22:24:18.789643691Z"
+    created: "2022-08-25T22:36:24.498647246Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1528,7 +1559,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2022-08-25T22:24:18.786976078Z"
+    created: "2022-08-25T22:36:24.496577879Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1557,7 +1588,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2022-08-25T22:24:18.784992725Z"
+    created: "2022-08-25T22:36:24.492407082Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1586,7 +1617,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2022-08-25T22:24:18.782774702Z"
+    created: "2022-08-25T22:36:24.490993543Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1615,7 +1646,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2022-08-25T22:24:18.75599336Z"
+    created: "2022-08-25T22:36:24.467809344Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1644,7 +1675,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2022-08-25T22:24:18.698975059Z"
+    created: "2022-08-25T22:36:24.428202145Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1673,7 +1704,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-08-25T22:24:18.66563482Z"
+    created: "2022-08-25T22:36:24.395055543Z"
     dependencies:
     - name: cooperatives
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -1703,7 +1734,7 @@ entries:
   greenlight-application-resources:
   - apiVersion: v2
     appVersion: 0.1.23
-    created: "2022-08-25T22:24:18.800322033Z"
+    created: "2022-08-25T22:36:24.510422921Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1715,7 +1746,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2022-08-25T22:24:18.799902159Z"
+    created: "2022-08-25T22:36:24.510120876Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1727,7 +1758,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2022-08-25T22:24:18.799650979Z"
+    created: "2022-08-25T22:36:24.509543466Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1739,7 +1770,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2022-08-25T22:24:18.799360773Z"
+    created: "2022-08-25T22:36:24.507865433Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1751,7 +1782,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2022-08-25T22:24:18.798743616Z"
+    created: "2022-08-25T22:36:24.506243468Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1763,7 +1794,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2022-08-25T22:24:18.798467103Z"
+    created: "2022-08-25T22:36:24.505895335Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1775,7 +1806,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2022-08-25T22:24:18.798131076Z"
+    created: "2022-08-25T22:36:24.505566173Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1787,7 +1818,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2022-08-25T22:24:18.797674041Z"
+    created: "2022-08-25T22:36:24.505036655Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1799,7 +1830,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2022-08-25T22:24:18.797328652Z"
+    created: "2022-08-25T22:36:24.504472782Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1811,7 +1842,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2022-08-25T22:24:18.796816775Z"
+    created: "2022-08-25T22:36:24.503908622Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1823,7 +1854,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2022-08-25T22:24:18.796371332Z"
+    created: "2022-08-25T22:36:24.503343383Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1835,7 +1866,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2022-08-25T22:24:18.794603705Z"
+    created: "2022-08-25T22:36:24.502921177Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1847,7 +1878,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2022-08-25T22:24:18.794121763Z"
+    created: "2022-08-25T22:36:24.502466522Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1859,7 +1890,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2022-08-25T22:24:18.793576008Z"
+    created: "2022-08-25T22:36:24.502080706Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1871,7 +1902,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2022-08-25T22:24:18.805343632Z"
+    created: "2022-08-25T22:36:24.514146035Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1883,7 +1914,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2022-08-25T22:24:18.803432269Z"
+    created: "2022-08-25T22:36:24.513278615Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1895,7 +1926,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2022-08-25T22:24:18.802945978Z"
+    created: "2022-08-25T22:36:24.512469928Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1907,7 +1938,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2022-08-25T22:24:18.802135545Z"
+    created: "2022-08-25T22:36:24.512048778Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1919,7 +1950,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2022-08-25T22:24:18.801617355Z"
+    created: "2022-08-25T22:36:24.511589707Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1931,7 +1962,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2022-08-25T22:24:18.801171772Z"
+    created: "2022-08-25T22:36:24.511168706Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1943,7 +1974,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2022-08-25T22:24:18.800703774Z"
+    created: "2022-08-25T22:36:24.510811354Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1955,7 +1986,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-08-25T22:24:18.799053013Z"
+    created: "2022-08-25T22:36:24.507417494Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1967,7 +1998,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2022-08-25T22:24:18.792906989Z"
+    created: "2022-08-25T22:36:24.501392384Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1979,7 +2010,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-08-25T22:24:18.792201416Z"
+    created: "2022-08-25T22:36:24.501024591Z"
     description: Defines the supporting resources required for greenlight-application.
       External dependencies that must be configured prior to installation include
       Istio, Keycloak  and k8ssandra.
@@ -1992,7 +2023,7 @@ entries:
   greenlight-application-test-deployment:
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2022-08-25T22:24:18.824465471Z"
+    created: "2022-08-25T22:36:24.528561244Z"
     description: Deploys resources required for testing greenlight-application including
       the application itself and test resources.
     digest: 5e49ef807b1cd51d03b0a73c09c84738a8047424d8e4e3fc758b00401c2d6883
@@ -2004,7 +2035,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2022-08-25T22:24:18.824257553Z"
+    created: "2022-08-25T22:36:24.528247167Z"
     description: Deploys resources required for testing greenlight-application including
       the application itself and test resources.
     digest: 3a9199124ed230bc3ea7e468e58877439a5cd30b32140daff3803c01016a7772
@@ -2016,7 +2047,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2022-08-25T22:24:18.823934966Z"
+    created: "2022-08-25T22:36:24.528010776Z"
     description: Deploys resources required for testing greenlight-application including
       the application itself and test resources.
     digest: e5d0d84478f8bf863e1ad00bf0298dbd804601d382b1196ace0fb5812a388d88
@@ -2028,7 +2059,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2022-08-25T22:24:18.823352855Z"
+    created: "2022-08-25T22:36:24.527635589Z"
     description: Deploys resources required for testing greenlight-application including
       the application itself and test resources.
     digest: b57e11ba492099e214075b5cebbe5ae9654cab05b31f29aeda5cdb2b4081ff82
@@ -2040,7 +2071,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2022-08-25T22:24:18.822787564Z"
+    created: "2022-08-25T22:36:24.527232199Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2056,7 +2087,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2022-08-25T22:24:18.818137771Z"
+    created: "2022-08-25T22:36:24.522310497Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2072,7 +2103,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2022-08-25T22:24:18.815340795Z"
+    created: "2022-08-25T22:36:24.520007146Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2088,7 +2119,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2022-08-25T22:24:18.844615525Z"
+    created: "2022-08-25T22:36:24.542438729Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2104,7 +2135,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2022-08-25T22:24:18.840176997Z"
+    created: "2022-08-25T22:36:24.539578181Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2120,7 +2151,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2022-08-25T22:24:18.835259999Z"
+    created: "2022-08-25T22:36:24.5368866Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2135,7 +2166,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2022-08-25T22:24:18.832344745Z"
+    created: "2022-08-25T22:36:24.534931357Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2150,7 +2181,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2022-08-25T22:24:18.830320098Z"
+    created: "2022-08-25T22:36:24.532871513Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2165,7 +2196,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-08-25T22:24:18.826163964Z"
+    created: "2022-08-25T22:36:24.530989937Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2180,7 +2211,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-08-25T22:24:18.811737094Z"
+    created: "2022-08-25T22:36:24.516962717Z"
     dependencies:
     - name: greenlight-application
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2196,7 +2227,7 @@ entries:
   greenlight-application-test-resources:
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2022-08-25T22:24:18.845915633Z"
+    created: "2022-08-25T22:36:24.543186517Z"
     description: Deploys resources required for testing greenlight-application including
       the application itself and test resources.
     digest: d44b7755a3305127abd4d640c7481dfeffa76ff636e86038be093607e2419563
@@ -2208,7 +2239,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2022-08-25T22:24:18.845518724Z"
+    created: "2022-08-25T22:36:24.542957781Z"
     description: Deploys resources required for testing greenlight-application including
       the application itself and test resources.
     digest: 6a2604a8fdc2ca6c95f2cb6802f1ae77a6fdce7605d736cccd0307525b98f353
@@ -2220,7 +2251,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2022-08-25T22:24:18.845149114Z"
+    created: "2022-08-25T22:36:24.54275691Z"
     description: Deploys resources required for testing greenlight-application including
       the application itself and test resources.
     digest: d4476ea522a465e25d8e890bebf67d72f1e3e9d21742507fb3d048c015607d91
@@ -2233,7 +2264,7 @@ entries:
   greenlight-helm-library:
   - apiVersion: v2
     appVersion: 0.1.29
-    created: "2022-08-25T22:24:18.862190277Z"
+    created: "2022-08-25T22:36:24.554677412Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 5a8c68e56411c3921beee503e93edbc5fae91472f67bf2f99491f9458d93cb0f
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2244,7 +2275,7 @@ entries:
     version: 0.1.29
   - apiVersion: v2
     appVersion: 0.1.28
-    created: "2022-08-25T22:24:18.861786099Z"
+    created: "2022-08-25T22:36:24.553906157Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 915d771c72830469e7abb1386afc2447f3d380af976f9c8b070a976a5e0dab4b
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2255,7 +2286,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.27
-    created: "2022-08-25T22:24:18.861379776Z"
+    created: "2022-08-25T22:36:24.553263528Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: fba6d1fd7042ffe3d7f3dce3311784dfba93788d0a541f29aacf7193f39f4102
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2266,7 +2297,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.26
-    created: "2022-08-25T22:24:18.860942937Z"
+    created: "2022-08-25T22:36:24.552374625Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 58db2790311316fe6467bad915b5076f64f441b612b03d53b0c70b2d59b2f1cf
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2277,7 +2308,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.25
-    created: "2022-08-25T22:24:18.860271658Z"
+    created: "2022-08-25T22:36:24.551568063Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: bd387eebbec2893d3b3a9b619058d5e38cd47c9b456fbeef5d13ced302c53761
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2288,7 +2319,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.24
-    created: "2022-08-25T22:24:18.859832327Z"
+    created: "2022-08-25T22:36:24.550838565Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 2750d1499c9a8f06c0564ec497ac318643f511d529a6a8c6ca0e2e75f539d723
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2299,7 +2330,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.23
-    created: "2022-08-25T22:24:18.859482317Z"
+    created: "2022-08-25T22:36:24.55045016Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 4024ad9ea92611b5590497d74eb9442d529e6512fc85cd4eb0c6847c28d6b619
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2310,7 +2341,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2022-08-25T22:24:18.859120349Z"
+    created: "2022-08-25T22:36:24.549939854Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: f7a0d31a3be7104588ebe6a652911d9fb992632f3c7bcbc0e253696cf199128b
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2321,7 +2352,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2022-08-25T22:24:18.858688076Z"
+    created: "2022-08-25T22:36:24.549625178Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 36f7446044658b059e0477c83d9e7a5c264433c559ccaff6cb234a1a903e5e7c
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2332,7 +2363,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2022-08-25T22:24:18.858163851Z"
+    created: "2022-08-25T22:36:24.54926085Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 17c574b47fc604cf7675dbc6895e35d3110ea89e0bc8e3809e7eab0442c09c5a
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2343,7 +2374,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2022-08-25T22:24:18.857362583Z"
+    created: "2022-08-25T22:36:24.548295032Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: af54cbd568d1a89bfa82c512f7a7e12f68d4f68e6df6fb244b46db321471f4cf
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2354,7 +2385,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2022-08-25T22:24:18.856929631Z"
+    created: "2022-08-25T22:36:24.548014638Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: ce942ddb36f80086c1bb358a15e048369391db2bd9f46ce50f967c1de107defe
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2365,7 +2396,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2022-08-25T22:24:18.856454308Z"
+    created: "2022-08-25T22:36:24.547598789Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 37e8f187e8d09bdc4ed5e6ca0c5b3bdc2e7fc3612816f7f62868d5ca4e3879af
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2376,7 +2407,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2022-08-25T22:24:18.856086952Z"
+    created: "2022-08-25T22:36:24.547296063Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 301ff9b22848eb686395d2c87096f6f77085187d790fc471bf40e493054faef0
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2387,7 +2418,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.15
-    created: "2022-08-25T22:24:18.855613978Z"
+    created: "2022-08-25T22:36:24.547001162Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: a2e31a7c32b2b08887eb08f0c969350a709a21cc00d143ab0b001c8011704f84
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2398,7 +2429,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.14
-    created: "2022-08-25T22:24:18.854635243Z"
+    created: "2022-08-25T22:36:24.546559253Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 3695a1efd935874e696fdcbe23fe95906d700512e1abcc7161ec9d4dbd7bb35a
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2409,7 +2440,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.13
-    created: "2022-08-25T22:24:18.850136257Z"
+    created: "2022-08-25T22:36:24.545956757Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: b386bd0682c9a0c463637441beff3b0d6b6d00019678335b678167a8e6726a87
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2420,7 +2451,7 @@ entries:
     version: 0.1.13
   - apiVersion: v2
     appVersion: 0.1.12
-    created: "2022-08-25T22:24:18.849648537Z"
+    created: "2022-08-25T22:36:24.54561779Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: a56181cc6c27376620a122bcf90ae171df62f864008b37d651feefb53db5e802
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2431,7 +2462,7 @@ entries:
     version: 0.1.12
   - apiVersion: v2
     appVersion: 0.1.11
-    created: "2022-08-25T22:24:18.848960416Z"
+    created: "2022-08-25T22:36:24.545068038Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: b14e09256f05d2b333359ab4349a414ccf51dbec8b4c61b3b5414904e71fca68
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2442,7 +2473,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.10
-    created: "2022-08-25T22:24:18.847901676Z"
+    created: "2022-08-25T22:36:24.544497509Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 507937a7f80fd9bb0fc65b493a49959fc894a94287724a4db123d710e866f447
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2453,7 +2484,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.9
-    created: "2022-08-25T22:24:18.867379974Z"
+    created: "2022-08-25T22:36:24.558020035Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: eca6af6457cbd05c1998b9f15fcb3e0877e6e6d4bbfb4eacd228233dab6d78d3
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2464,7 +2495,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.8
-    created: "2022-08-25T22:24:18.866906881Z"
+    created: "2022-08-25T22:36:24.557456888Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: cdedb4ecc131cda9970e57f47c6d09c1496f0c698ab12adb5ec311e316604dd4
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2475,7 +2506,7 @@ entries:
     version: 0.1.8
   - apiVersion: v2
     appVersion: 0.1.7
-    created: "2022-08-25T22:24:18.865489741Z"
+    created: "2022-08-25T22:36:24.556863725Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: c5504939de5bc37a532d9319be69d0f0995252d48b27558df17564c9558d4838
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2486,7 +2517,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: 0.1.6
-    created: "2022-08-25T22:24:18.864723048Z"
+    created: "2022-08-25T22:36:24.556313938Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 4b03cd9ef75c1331f2bae9b94a2b9dbc66e6620b83bf7cf3e1b357e2102f7918
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2497,7 +2528,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: 0.1.5
-    created: "2022-08-25T22:24:18.864178725Z"
+    created: "2022-08-25T22:36:24.555946756Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 36ac0eb3b56f153bd51df2bfcf6124bacef6f89d707c94008288ffe8ef41a79f
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2508,7 +2539,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.1.4
-    created: "2022-08-25T22:24:18.863690545Z"
+    created: "2022-08-25T22:36:24.555588571Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 763e6f3cc6f004f01d3abcf7303d49acb1be393cbb21c724aaaedde97e2bbc99
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2519,7 +2550,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.1.3
-    created: "2022-08-25T22:24:18.862700522Z"
+    created: "2022-08-25T22:36:24.555166291Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: c02d2fdd171319417c5f9c76cdbe8187559110242ffb7f18d5f77777bf67fb29
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2530,7 +2561,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 0.1.2
-    created: "2022-08-25T22:24:18.857777908Z"
+    created: "2022-08-25T22:36:24.548868306Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 661efe764a9cb528c965442dbdad96a50eddeaa634415f6b12c3cf3773f6f40d
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2541,7 +2572,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2022-08-25T22:24:18.847328446Z"
+    created: "2022-08-25T22:36:24.544014917Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: a6f4b16f8f534c68611bda299a7ed6a7a001725ae03b39836b9fcacbbd72c684
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2552,7 +2583,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-08-25T22:24:18.84644149Z"
+    created: "2022-08-25T22:36:24.543581936Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 4aa4d783784b2cb7e6df81b3d51f9c0a0a8ba9d55ee861f961cd6f3c93621364
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2564,7 +2595,7 @@ entries:
   greenlight-helm-library-chart:
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2022-08-25T22:24:18.86821319Z"
+    created: "2022-08-25T22:36:24.558762887Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 3d928e4f41a1696700152fe8dff73e4d32df1395be369d5eead81f308261fbb9
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2575,7 +2606,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-08-25T22:24:18.86768093Z"
+    created: "2022-08-25T22:36:24.558352011Z"
     description: Reusable templates, etc. for inclusion in Helm charts
     digest: 0383492924bc02477d32186a904e41371f966ff82207b39dc9ae404304933356
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2587,7 +2618,7 @@ entries:
   helloworld:
   - apiVersion: v2
     appVersion: 0.1.122
-    created: "2022-08-25T22:24:18.912205705Z"
+    created: "2022-08-25T22:36:24.573286641Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2602,7 +2633,7 @@ entries:
     version: 0.1.122
   - apiVersion: v2
     appVersion: 0.1.120
-    created: "2022-08-25T22:24:18.909279988Z"
+    created: "2022-08-25T22:36:24.572321914Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2617,7 +2648,7 @@ entries:
     version: 0.1.120
   - apiVersion: v2
     appVersion: 0.1.119
-    created: "2022-08-25T22:24:18.908413075Z"
+    created: "2022-08-25T22:36:24.571755852Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2632,7 +2663,7 @@ entries:
     version: 0.1.119
   - apiVersion: v2
     appVersion: 0.1.118
-    created: "2022-08-25T22:24:18.906149662Z"
+    created: "2022-08-25T22:36:24.570957293Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2647,7 +2678,7 @@ entries:
     version: 0.1.118
   - apiVersion: v2
     appVersion: 0.1.117
-    created: "2022-08-25T22:24:18.905632469Z"
+    created: "2022-08-25T22:36:24.570157764Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2662,7 +2693,7 @@ entries:
     version: 0.1.117
   - apiVersion: v2
     appVersion: 0.1.116
-    created: "2022-08-25T22:24:18.904819229Z"
+    created: "2022-08-25T22:36:24.569198703Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2677,7 +2708,7 @@ entries:
     version: 0.1.116
   - apiVersion: v2
     appVersion: 0.1.114
-    created: "2022-08-25T22:24:18.904031771Z"
+    created: "2022-08-25T22:36:24.56818743Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2692,7 +2723,7 @@ entries:
     version: 0.1.114
   - apiVersion: v2
     appVersion: 0.1.113
-    created: "2022-08-25T22:24:18.90330902Z"
+    created: "2022-08-25T22:36:24.567414061Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2707,7 +2738,7 @@ entries:
     version: 0.1.113
   - apiVersion: v2
     appVersion: 0.1.112
-    created: "2022-08-25T22:24:18.90155846Z"
+    created: "2022-08-25T22:36:24.566591432Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2722,7 +2753,7 @@ entries:
     version: 0.1.112
   - apiVersion: v2
     appVersion: 0.1.111
-    created: "2022-08-25T22:24:18.900912907Z"
+    created: "2022-08-25T22:36:24.565312772Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2737,7 +2768,7 @@ entries:
     version: 0.1.111
   - apiVersion: v2
     appVersion: 0.1.110
-    created: "2022-08-25T22:24:18.900288241Z"
+    created: "2022-08-25T22:36:24.563012699Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2752,7 +2783,7 @@ entries:
     version: 0.1.110
   - apiVersion: v2
     appVersion: 0.1.109
-    created: "2022-08-25T22:24:18.893474559Z"
+    created: "2022-08-25T22:36:24.562424506Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2767,7 +2798,7 @@ entries:
     version: 0.1.109
   - apiVersion: v2
     appVersion: 0.1.108
-    created: "2022-08-25T22:24:18.891173559Z"
+    created: "2022-08-25T22:36:24.561803526Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2782,7 +2813,7 @@ entries:
     version: 0.1.108
   - apiVersion: v2
     appVersion: 0.1.107
-    created: "2022-08-25T22:24:18.889454269Z"
+    created: "2022-08-25T22:36:24.561125389Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2797,7 +2828,7 @@ entries:
     version: 0.1.107
   - apiVersion: v2
     appVersion: 0.1.106
-    created: "2022-08-25T22:24:18.88834271Z"
+    created: "2022-08-25T22:36:24.560220123Z"
     description: Defines resources for the helloworld microservice.
     digest: 31e6e37f5b87985504f56008aee747054b2497bcf1d1e2d709381334e32c10d9
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -2808,7 +2839,7 @@ entries:
     version: 0.1.106
   - apiVersion: v2
     appVersion: 0.1.105
-    created: "2022-08-25T22:24:18.888019221Z"
+    created: "2022-08-25T22:36:24.559997807Z"
     description: Defines resources for the helloworld microservice.
     digest: aa7e9c7354abc807b50f66151cdad8e892ba47f898ac345a04b614edab3ba7a1
     name: helloworld
@@ -2818,7 +2849,7 @@ entries:
     version: 0.1.105
   - apiVersion: v2
     appVersion: 0.1.104
-    created: "2022-08-25T22:24:18.887654608Z"
+    created: "2022-08-25T22:36:24.559689634Z"
     description: Defines resources for the helloworld microservice.
     digest: 95ede0794fcf95e3d07a90b54fc96879b541397b6dd75bb8ef886275c59bfdb1
     name: helloworld
@@ -2828,7 +2859,7 @@ entries:
     version: 0.1.104
   - apiVersion: v2
     appVersion: 0.1.103
-    created: "2022-08-25T22:24:18.879159144Z"
+    created: "2022-08-25T22:36:24.559495925Z"
     description: Defines resources for the helloworld microservice.
     digest: 3aa0f5fac3720fef60f69fc929216d434410099eaba4049c2393ff5fc3cf2ad1
     name: helloworld
@@ -2838,7 +2869,7 @@ entries:
     version: 0.1.103
   - apiVersion: v2
     appVersion: 0.1.102
-    created: "2022-08-25T22:24:18.878597946Z"
+    created: "2022-08-25T22:36:24.559305461Z"
     description: Defines resources for the helloworld microservice.
     digest: 9d157b011c98be73b5d67955d0ea7a705e3b4d5b6894ebac3b81096639cec87a
     name: helloworld
@@ -2848,7 +2879,7 @@ entries:
     version: 0.1.102
   - apiVersion: v2
     appVersion: 0.1.101
-    created: "2022-08-25T22:24:18.876551435Z"
+    created: "2022-08-25T22:36:24.559039197Z"
     description: Defines resources for the helloworld microservice.
     digest: 89dc6a83513267fb7715e73a518180679d91ec3e63369e011b72f1c80e3c31a5
     name: helloworld
@@ -2859,7 +2890,7 @@ entries:
   helloworld-ui:
   - apiVersion: v2
     appVersion: 0.1.31
-    created: "2022-08-25T22:24:18.926650893Z"
+    created: "2022-08-25T22:36:24.58362357Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2874,7 +2905,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 0.1.30
-    created: "2022-08-25T22:24:18.922952848Z"
+    created: "2022-08-25T22:36:24.582891412Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2889,7 +2920,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 0.1.28
-    created: "2022-08-25T22:24:18.921904572Z"
+    created: "2022-08-25T22:36:24.581545858Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2904,7 +2935,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.27
-    created: "2022-08-25T22:24:18.920966329Z"
+    created: "2022-08-25T22:36:24.57978279Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2919,7 +2950,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.26
-    created: "2022-08-25T22:24:18.919888671Z"
+    created: "2022-08-25T22:36:24.578289211Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2934,7 +2965,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.25
-    created: "2022-08-25T22:24:18.918842467Z"
+    created: "2022-08-25T22:36:24.577092755Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2949,7 +2980,7 @@ entries:
     version: 0.1.25
   - apiVersion: v2
     appVersion: 0.1.24
-    created: "2022-08-25T22:24:18.917706318Z"
+    created: "2022-08-25T22:36:24.576046921Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -2964,7 +2995,7 @@ entries:
     version: 0.1.24
   - apiVersion: v2
     appVersion: 0.1.23
-    created: "2022-08-25T22:24:18.916448161Z"
+    created: "2022-08-25T22:36:24.575099997Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 4b3683c9954f40ccc1ecc511b554e55a144e29e0de42fa70b713d27fb901db61
     name: helloworld-ui
@@ -2974,7 +3005,7 @@ entries:
     version: 0.1.23
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2022-08-25T22:24:18.916096316Z"
+    created: "2022-08-25T22:36:24.574716439Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 3d8106bf958bcddcc931d9e98128c4a390b229d7bf4bce86e67acbcf1dd9c57f
     name: helloworld-ui
@@ -2984,7 +3015,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.19
-    created: "2022-08-25T22:24:18.915738908Z"
+    created: "2022-08-25T22:36:24.574357619Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 87d63a0da8d540862d4eec1287b26188273cca603cfc7e92e01e6bc77294059f
     name: helloworld-ui
@@ -2994,7 +3025,7 @@ entries:
     version: 0.1.19
   - apiVersion: v2
     appVersion: 0.1.18
-    created: "2022-08-25T22:24:18.915321469Z"
+    created: "2022-08-25T22:36:24.573979035Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 0070a0c7e90d305b0e60929886ebf4188f509260b4b7eaf54c9d1d06661e3d38
     name: helloworld-ui
@@ -3004,7 +3035,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.16
-    created: "2022-08-25T22:24:18.914715746Z"
+    created: "2022-08-25T22:36:24.573683612Z"
     description: Defines resources for the helloworld-ui microservice.
     digest: 92c766acd2b4b11953890aa9d3e771d0ae6ed862abb1312baf7cac9e4fbcf86a
     name: helloworld-ui
@@ -3015,7 +3046,7 @@ entries:
   worker-ui:
   - apiVersion: v2
     appVersion: 0.1.36
-    created: "2022-08-25T22:24:18.940103365Z"
+    created: "2022-08-25T22:36:24.592025099Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -3030,7 +3061,7 @@ entries:
     version: 0.1.36
   - apiVersion: v2
     appVersion: 0.1.35
-    created: "2022-08-25T22:24:18.93952638Z"
+    created: "2022-08-25T22:36:24.591264985Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -3045,7 +3076,7 @@ entries:
     version: 0.1.35
   - apiVersion: v2
     appVersion: 0.1.34
-    created: "2022-08-25T22:24:18.938353276Z"
+    created: "2022-08-25T22:36:24.590467292Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -3060,7 +3091,7 @@ entries:
     version: 0.1.34
   - apiVersion: v2
     appVersion: 0.1.32
-    created: "2022-08-25T22:24:18.936963326Z"
+    created: "2022-08-25T22:36:24.589610004Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -3075,7 +3106,7 @@ entries:
     version: 0.1.32
   - apiVersion: v2
     appVersion: 0.1.31
-    created: "2022-08-25T22:24:18.935784739Z"
+    created: "2022-08-25T22:36:24.588742335Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -3090,7 +3121,7 @@ entries:
     version: 0.1.31
   - apiVersion: v2
     appVersion: 0.1.30
-    created: "2022-08-25T22:24:18.929649597Z"
+    created: "2022-08-25T22:36:24.588053752Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -3105,7 +3136,7 @@ entries:
     version: 0.1.30
   - apiVersion: v2
     appVersion: 0.1.28
-    created: "2022-08-25T22:24:18.928955348Z"
+    created: "2022-08-25T22:36:24.587335036Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -3120,7 +3151,7 @@ entries:
     version: 0.1.28
   - apiVersion: v2
     appVersion: 0.1.27
-    created: "2022-08-25T22:24:18.928298651Z"
+    created: "2022-08-25T22:36:24.586510562Z"
     dependencies:
     - name: greenlight-helm-library
       repository: https://raw.githubusercontent.com/greenlight-coop/greenlight-helm-charts/main
@@ -3135,7 +3166,7 @@ entries:
     version: 0.1.27
   - apiVersion: v2
     appVersion: 0.1.26
-    created: "2022-08-25T22:24:18.927702426Z"
+    created: "2022-08-25T22:36:24.58508898Z"
     description: Defines resources for the worker-ui microservice.
     digest: 20f3a4488aa94b39d1ca0ff6de7c37f155f786d5ed3ff8c8d4a0e42d68263343
     icon: https://www.greenlight.coop/assets/img/favicon.png
@@ -3146,7 +3177,7 @@ entries:
     version: 0.1.26
   - apiVersion: v2
     appVersion: 0.1.22
-    created: "2022-08-25T22:24:18.92751218Z"
+    created: "2022-08-25T22:36:24.584674503Z"
     description: Defines resources for the worker-ui microservice.
     digest: cf65d406e45255ff78efdcaeeecc42d75a1c87cc1f48ce93aab039e36df0f84b
     name: worker-ui
@@ -3156,7 +3187,7 @@ entries:
     version: 0.1.22
   - apiVersion: v2
     appVersion: 0.1.21
-    created: "2022-08-25T22:24:18.927329563Z"
+    created: "2022-08-25T22:36:24.584382764Z"
     description: Defines resources for the worker-ui microservice.
     digest: 56c72ef0c6ce58c66799dca6a8eed2830f4e97a8042aaf4572a740b44668178f
     name: worker-ui
@@ -3166,7 +3197,7 @@ entries:
     version: 0.1.21
   - apiVersion: v2
     appVersion: 0.1.20
-    created: "2022-08-25T22:24:18.927134984Z"
+    created: "2022-08-25T22:36:24.584107184Z"
     description: Defines resources for the worker-ui microservice.
     digest: febbc02f5ad192659ac6dd728a76f7e86a309a91b3236f00cbcac08051e2d7b8
     name: worker-ui
@@ -3176,7 +3207,7 @@ entries:
     version: 0.1.20
   - apiVersion: v2
     appVersion: 0.1.17
-    created: "2022-08-25T22:24:18.926943688Z"
+    created: "2022-08-25T22:36:24.583866261Z"
     description: Defines resources for the worker-ui microservice.
     digest: ee1bf502808485a8e05edde1eff3770dcc80cf9d3f99a3136e00cecc03869fcc
     name: worker-ui
@@ -3184,4 +3215,4 @@ entries:
     urls:
     - worker-ui-0.1.17.tgz
     version: 0.1.17
-generated: "2022-08-25T22:24:18.608046706Z"
+generated: "2022-08-25T22:36:24.325226331Z"
